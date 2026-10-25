@@ -94,6 +94,6 @@ All queries are in [`Task5_Chinook_Analysis.sql`](Task5_Chinook_Analysis.sql).
 
 1. Install [DB Browser for SQLite](https://sqlitebrowser.org).
 2. Open `Chinook_Sqlite.sqlite` (set the file filter to "All files").
-3. Go to **Execute SQL**, paste one query from the `.sql` file, and press **Ctrl+Enter**.
+3. Go to **Execute SQL**, write your **Query** , and press **Ctrl+Enter**.
 
-Window functions need SQLite 3.25 or newer (DB Browser 3.12+).
+
