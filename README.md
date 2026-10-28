@@ -17,7 +17,3 @@ This repository showcases projects completed during my **Data Analytics Internsh
 - **SQL:** Joining tables, aggregating data, and using window functions.
 - **Python:** Analyzing datasets using Pandas and Seaborn.
 - **Business Insights:** Presenting data in a way that supports informed decision-making.
-
-## Repository
-
-[Explore all projects on GitHub](https://github.com/malakmeaity/elevvo-data-analytics-internship)
