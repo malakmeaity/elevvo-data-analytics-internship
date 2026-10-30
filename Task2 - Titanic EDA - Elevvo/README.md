@@ -31,3 +31,7 @@ Exploratory data analysis of the Titanic: Machine Learning from Disaster dataset
 
 ## Tools
 Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy
+
+## Author
+
+[Malak Meaity](https://linkedin.com/in/malakmeaity)
