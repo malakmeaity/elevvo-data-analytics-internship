@@ -97,3 +97,6 @@ All queries are in [`Task5_Chinook_Analysis.sql`](Task5_Chinook_Analysis.sql).
 3. Go to **Execute SQL**, write your **Query** , and press **Ctrl+Enter**.
 
 
+## Author
+
+[Malak Meaity](https://linkedin.com/in/malakmeaity)
