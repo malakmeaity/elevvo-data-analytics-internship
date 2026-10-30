@@ -98,3 +98,7 @@ Five pivot charts (monthly trend, sales by year, category, region, Top 10 produc
 
 - Excel 2010 has no distinct-count pivots, so "orders" are not shown as a KPI. Units sold uses the Quantity column.
 - Pivot tables and charts update when you use **Data → Refresh All** after changing the source table.
+
+## Author
+
+[Malak Meaity](https://linkedin.com/in/malakmeaity)
